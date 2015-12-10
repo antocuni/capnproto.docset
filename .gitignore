@@ -1,3 +1,7 @@
+# docset specific files
+Capn_Proto.docset/Contents/Resources/docSet.dsidx
+Capn_Proto.docset/Contents/Resources/Documents/*
+
 # emacs backup
 *~
 
